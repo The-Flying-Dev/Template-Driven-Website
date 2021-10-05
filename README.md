@@ -2,7 +2,7 @@
 
 
 - This project uses a ready made html and css template inside of a Rails app.
-- It is a out-of-the-box user-friendly project.
+- It is an out-of-the-box user-friendly project.
 - The goal was to use one Controller and One view to render the template.
 
 
