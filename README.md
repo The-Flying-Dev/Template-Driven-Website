@@ -10,7 +10,7 @@
 
 - Chose to use the Font awesome CDN due to lower latency and faster delivery of content.
 - Used the gem 'jquery-rails'.
-- Ruby version => 2.3.
+- Ruby version => 2.3.3
 - Rails version => 5.1.7.
 
 
