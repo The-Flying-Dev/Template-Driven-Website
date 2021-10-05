@@ -1,6 +1,5 @@
-### Template Driven Webapp
-
 ### Chilling Cafe Template
+
 
 - This project uses a ready made html and css template inside of a Rails app.
 - It is a out-of-the-box user-friendly project.
@@ -17,6 +16,6 @@
 
 ### Chilling Cafe Template
 
-- Link for original template: https://www.tooplate.com/view/2118-chilling-cafe
+- Link to original template: https://www.tooplate.com/view/2118-chilling-cafe
 
 
